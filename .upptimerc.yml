@@ -14,7 +14,9 @@ status-website:
   cname: status.galaxybreedables.com
   # baseUrl: /your-repo-name
   logoUrl: https://galaxybreedables.com/assets/logo-d9a3fc9f.png
-  name: Status Page
+  name: Status Page for Galaxy Breedables
+  introTitle: "**Galaxy Breedables** is a new breedable systerm in Second Life."
+  introMessage: This is a real-time status page, showing if the server or website has any problems.
   navbar:
     - title: Status
       href: /
